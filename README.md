@@ -23,6 +23,9 @@ User Interaction:
 The program continuously displays the menu and prompts the user to choose an option. It processes the user's choice by adding, displaying, or deleting books, or by exiting the program.
 This simple system lets a user manage a small library by adding, viewing, and removing books from the collection.
 
+![Uploading image.png…]()
+
+
 
 
 
